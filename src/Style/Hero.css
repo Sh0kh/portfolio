@@ -1,0 +1,91 @@
+.Hero{
+    padding-top:250px ;
+}
+.Hero__wrapper{
+    text-align: center;
+}
+.Hero__wrapper h3{
+    color: black;
+    font-size: 25px;
+    opacity: 0.5;
+}
+.Hero__wrapper h1{
+    font-size: 80px;
+    color: black;
+}
+.Hero__wrapper p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.Hero__wrapper button{
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    margin-top: 30px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.Hero__wrapper button:hover{
+    background-color: transparent;
+    color: black;
+}
+.Hero__wrapper p span{
+    color: #0033ff;
+}
+@media(max-width:880px){
+    .Hero__wrapper h3{
+        font-size: 20px;
+    }
+    .Hero__wrapper h1{
+        font-size: 60px;
+    }
+    .Hero__wrapper p{
+        font-size: 20px;
+    }
+}
+@media(max-width:660px){
+    .Hero{
+        padding-top: 120px;
+    }
+    .Hero__wrapper h3{
+        font-size: 15px;
+    }
+    .Hero__wrapper h1{
+        font-size: 50px;
+    }
+    .Hero__wrapper p{
+        font-size: 15px;
+    }
+    .Hero__wrapper button{
+        font-size: 10px;
+    }
+}
+@media(max-width:550px){
+    .Hero__wrapper h3{
+        font-size: 13px;
+    }
+    .Hero__wrapper h1{
+        font-size: 45px;
+    }
+    .Hero__wrapper p{
+        font-size: 13px;
+    }
+    .Hero__wrapper button{
+        font-size: 15px;
+    }
+}
+@media(max-width:320px){
+    .Hero__wrapper h1{
+        font-size: 35px;
+    }
+}
+@media(max-width:280px){
+    .Hero__wrapper h1{
+        font-size: 30px;
+    }
+    .Hero__wrapper p{
+        font-size: 10px;
+    }
+}

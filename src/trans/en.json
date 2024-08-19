@@ -1,0 +1,23 @@
+{
+    "Hero__Hello":"Hello I",
+    "Hero__Title":"Tukhtanazarov Shokhruh",
+    "Hero__SubTitle":"I am a more highly experienced Frontend Developer",
+    "Hero__Btn":"About me",
+
+    
+    "AboutMe__title":"About Me",
+    "AboutMe__text1":"Hello, my name is Shokhrukh (Tukhtanazarov).I am a Frontend developer from Uzbekistan, glad to see you in my portfolio. I think you will like my portfolio, my knowledge and my creations. I myself am a Frontend Developer, I have been doing this for 2 years now, I have been working in this position for more than a year. I worked for DEVOSOFT and IT park, and now I work for IT Live. It’s safe to say that my work experience is what I need. Frontend developer",
+    "AboutMe__text2":"As a bonus, I am not only a Frontend developer, but also a UI and UX (Web) designer. Over the years, I have learned to create website designs on my own. At DEVOSOFT I was a designer and front-end developer. I also have experience in WEB design.",
+    "AboutMe__text3":"You will definitely like me. I am persistent and creative. I just want work and that's it",
+    "AboutMe__btn":"My skills",
+
+    "MySkills__title":"My Skills",
+    "MySkills__btn":"My project",
+
+    "Project__title":"My Project",
+    "Project__btn1":"Live",
+    "Project__btn2":"My contact",
+
+    "Contact__title":"My Contacts",
+    "Contact__text":"If you liked it, I'm very glad. I look forward to your feedback (don’t think twice and write to me)"
+}

@@ -1,0 +1,58 @@
+.Contact{
+
+}
+.Contact h1{
+    text-align: center;
+    font-size: 45px;
+}
+.Contact p{
+    width: 80%;
+    font-size: 18px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.Contact a{
+    text-decoration: none;
+    color: black;
+    font-size: 100px    ;
+}
+.Contact__wrapper{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.Telegram{
+    transition: 0.5s;
+}
+.Contact__btn:hover{
+    .Telegtam{
+        color: #2AA2DE;
+        transition: 0.5s
+    }
+}
+.Contact__btn:hover{
+    .Instagram{
+        color: #F2128F;
+        transition: 0.5s
+    }
+}
+.Contact__btn:hover{
+    .in{
+        color: #2AA2DE;
+        transition: 0.5s
+    }
+}
+
+
+@media(max-width:550px){
+    .Contact p{
+        width: 100%;
+    }
+    .Contact__wrapper{
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    }
+}

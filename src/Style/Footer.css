@@ -1,0 +1,37 @@
+footer{
+    padding-top: 300px;
+    overflow-x: hidden;
+    position: relative;
+}
+footer .Svg__top{
+    margin-bottom: 0px;
+    position: absolute;
+    top: 40px;
+}
+.FooterContent{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    background-color: #1E1E1E;
+}
+.Footer__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Footer__logo {
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.Footer__logo h1{
+    font-size: 25px;
+}
+.footerNav a{
+    color: white !important;
+}

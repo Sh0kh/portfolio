@@ -1,0 +1,82 @@
+.AboutMe{
+    padding-top: 300px;
+    padding-bottom: 300px;
+    margin-bottom: 50px;
+    overflow-x: hidden;
+    position: relative;
+}
+.Svg__top{
+    margin-bottom: 0px;
+    position: absolute;
+    top: 40px;
+}
+.Svg__bottom{
+    margin-bottom: 0px;
+    position: absolute;
+    bottom: 35px;
+}
+.AboutMEBig{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    background-color: #1E1E1E;
+}
+.AboutMe h1{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 30px;
+    color: white;
+}
+.AboutMe__wrapper{
+    width: 70%;
+    text-align: center;
+    margin: 0 auto  ;
+}
+.AboutMe__wrapper p{
+    font-size: 18px;
+    margin-top: 30px;
+    color: white;
+}
+.AboutMe__wrapper p span{
+    opacity: 0.5;
+}
+.AboutMe__wrapper button{
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: white;
+    border: 2px solid white;
+    transition: 0.5s;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.AboutMe__wrapper button:hover{
+    background-color: transparent;
+    color: white;
+}
+@media(max-width:768px){
+    .AboutMe__wrapper{
+        width: 90%;
+    }
+    .Svg__top{
+        height: 200px;
+        width: 1000px;
+        top: 130px !important;
+    }
+}
+@media(max-width:500px){
+    .AboutMe__wrapper p {
+        font-size: 15px;
+    }
+}
+@media(max-width:430px){
+    .AboutMe__wrapper{
+        width: 100%;
+    }
+    .Svg__top{
+        height: 120px;
+        width: 500px;
+        top: 210px !important;
+    }
+}

@@ -1,0 +1,60 @@
+.Skils{
+    margin-bottom: 30px;
+}
+.Skils h1{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.Skils__Card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-direction: column;
+}
+.Skils__Card svg{
+    font-size: 100px;
+}
+.Skils__wrapper{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 30px;
+}
+.Skils button{
+    padding: 10px 20px;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    border-radius:8px ;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.Skils button:hover{
+    background-color: transparent;
+    color: black;
+}
+@media(max-width:770px){
+    .Skils__wrapper{
+        grid-template-columns: repeat(4,1fr);
+    }
+}
+@media(max-width:580px){
+    .Skils__wrapper{
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+@media(max-width:420px){
+    .Skils__wrapper{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+@media(max-width:300px){
+    .Skils__Card svg{
+        font-size: 80px;
+    }
+}
