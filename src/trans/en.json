@@ -1,23 +1,19 @@
 {
-    "Hero__Hello":"Hello I",
-    "Hero__Title":"Tukhtanazarov Shokhruh",
-    "Hero__SubTitle":"I am a more highly experienced Frontend Developer",
-    "Hero__Btn":"About me",
-
-    
-    "AboutMe__title":"About Me",
-    "AboutMe__text1":"Hello, my name is Shokhrukh (Tukhtanazarov).I am a Frontend developer from Uzbekistan, glad to see you in my portfolio. I think you will like my portfolio, my knowledge and my creations. I myself am a Frontend Developer, I have been doing this for 2 years now, I have been working in this position for more than a year. I worked for DEVOSOFT and IT park, and now I work for IT Live. It’s safe to say that my work experience is what I need. Frontend developer",
-    "AboutMe__text2":"As a bonus, I am not only a Frontend developer, but also a UI and UX (Web) designer. Over the years, I have learned to create website designs on my own. At DEVOSOFT I was a designer and front-end developer. I also have experience in WEB design.",
-    "AboutMe__text3":"You will definitely like me. I am persistent and creative. I just want work and that's it",
-    "AboutMe__btn":"My skills",
-
-    "MySkills__title":"My Skills",
-    "MySkills__btn":"My project",
-
-    "Project__title":"My Project",
-    "Project__btn1":"Live",
-    "Project__btn2":"My contact",
-
-    "Contact__title":"My Contacts",
-    "Contact__text":"If you liked it, I'm very glad. I look forward to your feedback (don’t think twice and write to me)"
+    "Hero__Hello": "Hello I",
+    "Hero__Title": "Tukhtanazarov Shokhruh",
+    "Hero__SubTitle": "I am a more highly experienced Frontend Developer",
+    "Hero__Btn": "About me",
+    "AboutMe__title": "About Me",
+    "AboutMe__text1": "Hi! My name is Shokhrukh, and I’m a Frontend Developer with 2 years of commercial experience. I’ve worked with both local and international companies, contributing to a wide range of web applications. My main focus is on React, but I also have solid experience with modern technologies like TypeScript, Next.js, Vue 3, and more. I’m passionate about building fast, responsive, and user-friendly interfaces with clean and maintainable code. Always learning and open to new challenges.",
+    "AboutMe__text2": "Frontend Developer Devosoft — 8 months Built responsive and user-friendly websites using React and modern frontend technologies. Participated in interface development, layout optimization, and UX improvements.",
+    "AboutMe__text3": "Frontend Developer IT Live — 10 months Developed complex web applications such as CRM and LMS systems. Used React, TypeScript, and REST APIs. Focused on component architecture, backend integration, and interface performance.",
+    "AboutMe__text4": "Frontend Team Lead Pasona (Japan) — 3 months (currently working) Currently working at Pasona, a major international company, as a Frontend Team Lead. Leading the development of large-scale web applications using React and HubSpot, deeply integrated with enterprise CRM systems. Responsible for frontend architecture, performance, and code quality.",
+    "AboutMe__btn": "My skills",
+    "MySkills__title": "My Skills",
+    "MySkills__btn": "My project",
+    "Project__title": "My Project",
+    "Project__btn1": "Live",
+    "Project__btn2": "My contact",
+    "Contact__title": "My Contacts",
+    "Contact__text": "If you liked it, I'm very glad. I look forward to your feedback (don’t think twice and write to me)"
 }

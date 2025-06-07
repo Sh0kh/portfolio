@@ -6,6 +6,12 @@ import Foto3 from '../images/FotoPortfolio3.png'
 import Foto4 from '../images/FotoPortfolio4.png'
 import Foto5 from '../images/FotoPortfolio5.png'
 import Foto6 from '../images/FotoPortfolio6.png'
+import Foto7 from '../images/FotoPortfolio7.png'
+import Foto8 from '../images/FotoPortfolio8.png'
+import Foto9 from '../images/FotoPortfolio9.png'
+import Foto10 from '../images/FotoPortfolio10.png'
+import Foto11 from '../images/FotoPortfolio11.png'
+import Foto12 from '../images/FotoPortfolio12.png'
 import gsap from 'gsap';
 import { useTranslation } from 'react-i18next';
 
@@ -63,6 +69,36 @@ function Project({scrollToSection, contactRef}) {
 
 
     const ProtfolioData = [
+        {
+            img:Foto7,
+            title:'Examify',
+            link:'https://examify.uz/',
+        },
+        {
+            img:Foto11,
+            title:'G-Factory',
+            link:'https://g-fac.jp/',
+        },
+        {
+            img:Foto12,
+            title:'Sumitomo Pharma',
+            link:'https://www.sumitomo-pharma.com/',
+        },
+        {
+            img:Foto8,
+            title:'Savol xona',
+            link:'https://savol-xona.uz/',
+        },
+        {
+            img:Foto9,
+            title:'Guliston news',
+            link:'http://gulistonshahar.uz/',
+        },
+        {
+            img:Foto10,
+            title:'J-cert',
+            link:'http://gulistonshahar.uz/',
+        },
         {
             img:Foto1,
             title:'NFT',

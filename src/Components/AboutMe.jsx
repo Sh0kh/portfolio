@@ -107,6 +107,9 @@ function AboutMe({scrollToSection, skilsRef }) {
                         <p className='AboutMe__4'>
                         {t('AboutMe__text3')}
                         </p>
+                        <p className='AboutMe__4'>
+                        {t('AboutMe__text4')}
+                        </p>
                         <button className='AboutMe__5' onClick={() => scrollToSection(skilsRef)}>
                         {t('AboutMe__btn')}
                         </button>
